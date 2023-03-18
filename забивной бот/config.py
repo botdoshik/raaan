@@ -1,4 +1,4 @@
-API_TOKEN = '5548529962:AAF7LB60g_l0FiH20jRGgV20Eb1orCMejZU' # токен от тлеграм бота
+API_TOKEN = '5512775097:AAH-IKHGxi45o8QmZdQs-FPU3SbWCR74Xg0' # токен от тлеграм бота
 
 admin = '5348342250' # id админа, тобиж твой (взять тут - t.me/userinfobot)
 
